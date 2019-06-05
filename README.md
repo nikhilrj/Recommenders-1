@@ -1,5 +1,7 @@
 # Recommenders
 
+FORKED FROM https://github.com/Microsoft/Recommenders
+
 This repository provides examples and best practices for building recommendation systems, provided as Jupyter notebooks. The examples detail our learnings on five key tasks: 
 - [Prepare Data](notebooks/01_prepare_data/README.md): Preparing and loading data for each recommender algorithm
 - [Model](notebooks/02_model/README.md): Building models using various classical and deep learning recommender algorithms such as Alternating Least Squares ([ALS](https://spark.apache.org/docs/latest/api/python/_modules/pyspark/ml/recommendation.html#ALS)) or eXtreme Deep Factorization Machines ([xDeepFM](https://arxiv.org/abs/1803.05170)).
